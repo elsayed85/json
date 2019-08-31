@@ -1,0 +1,74 @@
+[
+    {
+        "stu_id": "1",
+        "stu_username": "sayed1",
+        "stu_password": "123",
+        "stu_fstname": "sayed",
+        "stu_lstname": "kamal",
+        "stu_regdate": "2019-08-09",
+        "stu_phone": null,
+        "stu_address": null,
+        "stu_facebook": null,
+        "stu_age": "15"
+    },
+    {
+        "stu_id": "3",
+        "stu_username": "mkamal",
+        "stu_password": "789",
+        "stu_fstname": "mohamed",
+        "stu_lstname": "kamal",
+        "stu_regdate": "2019-08-02",
+        "stu_phone": null,
+        "stu_address": null,
+        "stu_facebook": null,
+        "stu_age": "21"
+    },
+    {
+        "stu_id": "4",
+        "stu_username": "nagib4",
+        "stu_password": "7851",
+        "stu_fstname": "nagib",
+        "stu_lstname": "kamal",
+        "stu_regdate": "2019-08-13",
+        "stu_phone": null,
+        "stu_address": null,
+        "stu_facebook": null,
+        "stu_age": "22"
+    },
+    {
+        "stu_id": "5",
+        "stu_username": "moali",
+        "stu_password": "789",
+        "stu_fstname": "mohamed",
+        "stu_lstname": "ali",
+        "stu_regdate": "2019-08-02",
+        "stu_phone": "1092291556",
+        "stu_address": null,
+        "stu_facebook": null,
+        "stu_age": "88"
+    },
+    {
+        "stu_id": "6",
+        "stu_username": "islam4",
+        "stu_password": "islam7889",
+        "stu_fstname": "islam",
+        "stu_lstname": "ali",
+        "stu_regdate": "2019-08-06",
+        "stu_phone": null,
+        "stu_address": null,
+        "stu_facebook": null,
+        "stu_age": "87"
+    },
+    {
+        "stu_id": "7",
+        "stu_username": "saeed5",
+        "stu_password": "47845",
+        "stu_fstname": "saeed",
+        "stu_lstname": "ali",
+        "stu_regdate": "2019-08-01",
+        "stu_phone": "74121465",
+        "stu_address": "kjeoirh3ou4houh",
+        "stu_facebook": "https:\/\/scope8.blogspot.com\/",
+        "stu_age": "111"
+    }
+]
